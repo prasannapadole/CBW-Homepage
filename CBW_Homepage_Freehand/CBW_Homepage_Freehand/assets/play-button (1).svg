@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="48px" viewBox="0 0 47 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>play-button (1)</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.800000012">
+        <g id="CBW_Homepage-screen" transform="translate(-1109.000000, -889.000000)" fill="#F8921F" fill-rule="nonzero">
+            <g id="Featured-Video" transform="translate(44.000000, 766.000000)">
+                <g id="Featured-videos" transform="translate(49.000000, 66.000000)">
+                    <g id="vd4" transform="translate(900.000000, 0.000000)">
+                        <g id="play-button-(1)" transform="translate(116.000000, 57.000000)">
+                            <path d="M23.5,0 C10.5413105,0 0,10.766625 0,24 C0,37.233375 10.5413105,48 23.5,48 C36.4586895,48 47,37.233375 47,24 C47,10.766625 36.4586895,0 23.5,0 Z M32.8422598,24.8408438 L19.133957,33.8408438 C18.9733125,33.94725 18.787791,34.0000312 18.6041973,34.0000312 C18.4435527,34.0000312 18.2809805,33.9589687 18.135666,33.8779687 C17.8200684,33.7021875 17.625,33.3661875 17.625,33 L17.625,15 C17.625,14.6338125 17.8200684,14.2978125 18.135666,14.1220313 C18.4454805,13.9482188 18.8336895,13.9589063 19.133957,14.1591563 L32.8422598,23.1591563 C33.1215059,23.3427187 33.2916973,23.6601562 33.2916973,24 C33.2916973,24.3398438 33.1215059,24.6571875 32.8422598,24.8408438 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

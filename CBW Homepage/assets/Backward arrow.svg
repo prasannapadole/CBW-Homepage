@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Backward arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CBW_Homepage-screen" transform="translate(-43.000000, -895.000000)">
+            <g id="Featured-Video" transform="translate(44.000000, 766.000000)">
+                <g id="Backward-arrow" transform="translate(17.500000, 147.500000) rotate(90.000000) translate(-17.500000, -147.500000) translate(0.000000, 130.000000)">
+                    <g id="Oval-2" fill="#FFFFFF" stroke="#F8921F" stroke-width="1.5">
+                        <circle id="Oval" cx="17.5" cy="17.5" r="17.5"></circle>
+                    </g>
+                    <g id="down-Icon" transform="translate(17.166667, 17.833333) rotate(90.000000) translate(-17.166667, -17.833333) translate(12.166667, 9.333333)" fill="#505762">
+                        <g id="next">
+                            <path d="M9.21736214,7.8706149 L1.59444608,0.250232847 C1.25995762,-0.0834109489 0.718032812,-0.0834109489 0.382699681,0.250232847 C0.0482112175,0.583876642 0.0482112175,1.12580145 0.382699681,1.45944524 L7.40097435,8.4751859 L0.383544349,15.4909266 C0.0490558854,15.8245704 0.0490558854,16.3664952 0.383544349,16.7009836 C0.718032812,17.0346274 1.26080229,17.0346274 1.59529075,16.7009836 L9.21820681,9.08060158 C9.54762726,8.75040684 9.54762726,8.19996497 9.21736214,7.8706149 Z" id="Chevron_Right_1_"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

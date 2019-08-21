@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="52px" viewBox="0 0 47 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Channel</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22,0 L41,0 L41,40 L22,40 L12,40 C5.372583,40 8.11624501e-16,34.627417 0,28 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 L22,0 Z" id="path-1"></path>
+        <filter x="-24.4%" y="-20.0%" width="148.8%" height="150.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CBW_Homepage-screen" transform="translate(-1319.000000, -549.000000)">
+            <g id="Channel" transform="translate(1325.000000, 553.000000)">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <path stroke="#F8921F" stroke-width="1" d="M40.5,39.5 L40.5,0.5 L12,0.5 C5.64872538,0.5 0.5,5.64872538 0.5,12 L0.5,28 C0.5,34.3512746 5.64872538,39.5 12,39.5 L40.5,39.5 Z" stroke-linejoin="square" fill="#F8921F" fill-rule="evenodd"></path>
+                </g>
+                <path d="M31.9996468,10.2401676 C31.9019263,10.154457 31.7628599,10.1345716 31.6449915,10.18924 L10.3486124,20.0841481 C10.2339598,20.1374383 10.160128,20.2518284 10.1587302,20.3782285 C10.1573716,20.5046285 10.2287751,20.6205937 10.3423121,20.6763121 L16.3691546,23.6340478 C16.4796726,23.6883224 16.6114542,23.6760499 16.7101591,23.6022837 L22.569912,19.2226456 L17.9697629,23.9544451 C17.9041346,24.0219766 17.8706641,24.1144468 17.8778833,24.2082953 L18.3359031,30.1731847 C18.3460755,30.30536 18.4346736,30.418372 18.5606143,30.4597834 C18.5942816,30.470809 18.6288677,30.4761905 18.6630601,30.4761905 C18.7568429,30.4761905 18.8480662,30.4359603 18.9115288,30.3624567 L22.1103827,26.6556397 L26.0648152,28.5450781 C26.150657,28.5860958 26.2500182,28.5878021 26.3372382,28.549869 C26.4244582,28.5118702 26.490874,28.4379728 26.5193567,28.3472745 L32.0963173,10.5851755 C32.1353005,10.461138 32.0973017,10.3258781 31.9996468,10.2401676 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

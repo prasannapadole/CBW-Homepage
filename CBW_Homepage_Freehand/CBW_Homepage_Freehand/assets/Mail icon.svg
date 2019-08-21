@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Mail icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CBW_Homepage-screen" transform="translate(-793.000000, -3982.000000)">
+            <g id="Footer" transform="translate(0.000000, 3840.000000)">
+                <g id="Mail-Icon" transform="translate(794.000000, 143.000000)">
+                    <g id="Mail-icon">
+                        <circle id="Oval" stroke="#F8921F" fill="#F8921F" cx="19" cy="19" r="19"></circle>
+                        <g id="black-envelope" transform="translate(8.000000, 11.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                            <path d="M1.7624,1.0648 L9.7896,7.4232 C10.1536,7.7112 10.6552,7.8392 11.1424,7.8152 C11.6288,7.8392 12.1304,7.712 12.4944,7.4232 L20.5216,1.0648 C21.1648,0.5584 21.0192,0.1432 20.2032,0.1432 L11.1432,0.1432 L2.0832,0.1432 C1.2664,0.1432 1.1208,0.5584 1.7624,1.0648 Z" id="Path"></path>
+                            <path d="M21.1016,2.7424 L12.3296,9.4024 C12.0016,9.6488 11.572,9.7688 11.144,9.7632 C10.7152,9.7688 10.2856,9.648 9.9576,9.4024 L1.184,2.7424 C0.5328,2.2488 0,2.5136 0,3.3304 L0,14.2576 C0,15.0744 0.6688,15.7432 1.4856,15.7432 L11.1424,15.7432 L20.8,15.7432 C21.6168,15.7432 22.2856,15.0744 22.2856,14.2576 L22.2856,3.3304 C22.2856,2.5136 21.7528,2.2488 21.1016,2.7424 Z" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

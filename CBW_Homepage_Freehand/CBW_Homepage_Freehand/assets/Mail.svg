@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="52px" viewBox="0 0 47 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22,0 L41,0 L41,40 L22,40 L12,40 C5.372583,40 8.11624501e-16,34.627417 0,28 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 L22,0 Z" id="path-1"></path>
+        <filter x="-24.4%" y="-20.0%" width="148.8%" height="150.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CBW_Homepage-screen" transform="translate(-1319.000000, -504.000000)">
+            <g id="Mail" transform="translate(1325.000000, 508.000000)">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <path stroke="#F8921F" stroke-width="1" d="M40.5,39.5 L40.5,0.5 L12,0.5 C5.64872538,0.5 0.5,5.64872538 0.5,12 L0.5,28 C0.5,34.3512746 5.64872538,39.5 12,39.5 L40.5,39.5 Z" stroke-linejoin="square" fill="#F8921F" fill-rule="evenodd"></path>
+                </g>
+                <g id="black-envelope" transform="translate(8.888889, 11.428571)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M1.95822222,1.18311111 L10.8773333,8.248 C11.2817778,8.568 11.8391111,8.71022222 12.3804444,8.68355556 C12.9208889,8.71022222 13.4782222,8.56888889 13.8826667,8.248 L22.8017778,1.18311111 C23.5164444,0.620444444 23.3546667,0.159111111 22.448,0.159111111 L12.3813333,0.159111111 L2.31466667,0.159111111 C1.40711111,0.159111111 1.24533333,0.620444444 1.95822222,1.18311111 Z" id="Path"></path>
+                    <path d="M23.4462222,3.04711111 L13.6995556,10.4471111 C13.3351111,10.7208889 12.8577778,10.8542222 12.3822222,10.848 C11.9057778,10.8542222 11.4284444,10.72 11.064,10.4471111 L1.31555556,3.04711111 C0.592,2.49866667 0,2.79288889 0,3.70044444 L0,15.8417778 C0,16.7493333 0.743111111,17.4924444 1.65066667,17.4924444 L12.3804444,17.4924444 L23.1111111,17.4924444 C24.0186667,17.4924444 24.7617778,16.7493333 24.7617778,15.8417778 L24.7617778,3.70044444 C24.7617778,2.79288889 24.1697778,2.49866667 23.4462222,3.04711111 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
